@@ -4,10 +4,10 @@
   
 ####  :wave: Welcome my github profile !
 
-🌱 I’m currently studying to become a Node.js backend developer.
-🤔 How to see my programming journey: https://sangwoorhie.tistory.com/
-📫 How to reach me: powercom92@naver.com
-⚡ Fun fact: I'm a tall man (186cm!)
+🌱 I’m currently studying to become a Node.js backend developer. <br/>
+🤔 How to see my programming journey: https://sangwoorhie.tistory.com/ <br/>
+📫 How to reach me: powercom92@naver.com <br/>
+⚡ Fun fact: I'm a tall man (186cm!) <br/>
  <br/>
  <br/>
   
