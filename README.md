@@ -4,7 +4,10 @@
   
 ####  :wave: Welcome my github profile !
 
-  
+🌱 I’m currently studying to become a Node.js backend developer.
+🤔 How to see my programming journey: https://sangwoorhie.tistory.com/
+📫 How to reach me: powercom92@naver.com
+⚡ Fun fact: I'm a tall man (186cm!)
  <br/>
  <br/>
   
@@ -33,5 +36,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
+[![Sangwoo's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sangwoorhie=anuraghazra&theme=dark&show_icons=true)
 </div>
